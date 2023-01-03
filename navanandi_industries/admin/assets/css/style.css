@@ -1,0 +1,8 @@
+.cus-shadow{
+    box-shadow: 0.0rem 0.25rem 2rem rgba(0,0,0,0.1) !important;   
+}
+
+.no-focus:focus {
+    box-shadow: inset 0 0 0 #ddd !important;
+    outline: none !important;
+}
